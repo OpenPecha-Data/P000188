@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000188
+initial_creation_type: ebook
+source_metadata:
   title: ༈ ཕན་ཡོན་ཕྱོགས་སྒྲིག་འདོད་འཇོའི་བུམ་བཟང་བཞུགས་སོ།
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཀརྨ་ཆགས་མེད། གཏེར་ཆེན་ཀརྨ་གླིང་པ།
   - ཨོ་རྒྱན་པདྨ་འབྱུང་གནས། རྒྱལ་དབང་མཁའ་ཁྱབ་རྡོ་རྗེ།
-  sku: BEN-LB-005
   layers:
   - book_title
   - author
@@ -12,6 +13,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: BEN-LB-005
 web_metadata:
   title:
     en: A Wish-Granting Vase:Collected Works on the Benefits of Offering Butter Lamps
